@@ -58,5 +58,3 @@ if __name__ == '__main__':
     postorder(tree)
     print('levelorder: '),
     levelorder(tree)
-
-

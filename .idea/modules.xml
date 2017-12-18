@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DiDiTaxi/.idea/DiDiTaxi.iml" filepath="$PROJECT_DIR$/../DiDiTaxi/.idea/DiDiTaxi.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/python_demo.iml" filepath="$PROJECT_DIR$/.idea/python_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test27/.idea/test27.iml" filepath="$PROJECT_DIR$/../test27/.idea/test27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test35/.idea/test35.iml" filepath="$PROJECT_DIR$/../test35/.idea/test35.iml" />
     </modules>
   </component>
 </project>
