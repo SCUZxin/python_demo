@@ -3,7 +3,7 @@
 from collections import namedtuple
 from sys import stdout
 
-Node = namedtuple('Node','data, left, right')
+Node = namedtuple('Node', 'data, left, right')
 tree = Node(1,
             Node(2,
                  Node(4,
